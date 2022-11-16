@@ -3,8 +3,13 @@
     "displayName": "ParrelSync",
     "version": "1.5.0",
     "unity": "2018.4",
-    "description": "ParrelSync is a Unity editor extension that allows users to test multiplayer gameplay without building the project by having another Unity editor window opened and mirror the changes from the original project.",
+    "description": "ParrelSync is a Unity editor extension that allows users to test multiplayer gameplay without building the project by having another Unity editor window opened and mirror the changes from the original project.这是本人整理的UPM插件,并非是本人开发 著作权由开发者所有 开发者:https://github.com/VeriorPies/ParrelSync.git",
     "license": "MIT",
 	"keywords": [ "Networking", "Utils", "Editor", "Extensions" ],
-    "dependencies": {}
+    "dependencies": {},
+	  "author": {
+    "name": "HeNuo",
+    "email": "HeNuo@heNuo.com",
+    "url": "https://github.com/HeNuoLibrary/"
+  }
 }
